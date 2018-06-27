@@ -1,0 +1,3 @@
+git init  - Initialzing empty Git repository (Becomes the local repository)
+
+git remote add origin "https://github.com/sri-p/git-Test.git" - Add Remote repository
