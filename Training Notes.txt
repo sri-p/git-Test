@@ -1,3 +1,14 @@
 git init  - Initialzing empty Git repository (Becomes the local repository)
 
 git remote add origin "https://github.com/sri-p/git-Test.git" - Add Remote repository
+
+git pull origin master (Update local repository from Central repository)
+
+git status - to see what all files are in index (untracked files are the ones that are not added in the index)
+
+git add "Training Notes.txt" (For adding files to the index)
+
+git commit -m "Addming first commit in local repo" - for commiting the changes
+
+git add -A - for adding all files at once to index (local repository)
+git add -a - for all commits
