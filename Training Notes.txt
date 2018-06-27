@@ -12,3 +12,12 @@ git commit -m "Addming first commit in local repo" - for commiting the changes
 
 git add -A - for adding all files at once to index (local repository)
 git add -a - for all commits
+
+git log - for viewing all the log files.
+
+git branch firstBranch - For creating a new branch from the origin master
+git checkout firstBranch - For switching to the branch that is created
+git checkout master - For switching it back to Master
+
+git merge firstBranch(Checkout in the Destination branch for merging the chagnes)
+ls - to list the files in that specific branch
