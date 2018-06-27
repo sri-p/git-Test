@@ -21,3 +21,4 @@ git checkout master - For switching it back to Master
 
 git merge firstBranch(Checkout in the Destination branch for merging the chagnes)
 ls - to list the files in that specific branch
+Once a file is added to index just commit alone will do.
